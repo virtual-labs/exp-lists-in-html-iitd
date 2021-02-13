@@ -80,7 +80,7 @@
 
   const myQuestions = [
     {
-      question: "‹li› tag is used for inserting List item in both ordered and unordered list.",
+      question: "â€¹liâ€º tag is used for inserting List item in both ordered and unordered list.",
       answers: {
         a: "True",
         b: "False"        
@@ -89,7 +89,7 @@
     },
 
     {
-      question: "‹li› is an empty tag. State True Or False.",
+      question: "â€¹liâ€º is an empty tag. State True Or False.",
       answers: {
         a: "True",
         b: "False"
@@ -100,8 +100,8 @@
     {
       question: "Select the correct tag used for creating an ordered list with letters.",
       answers: {
-        a: "‹ol›",
-        b: "‹ul›",
+        a: "ol",
+        b: "ul",
         c: "Both(a)&(b)",
         d: "None of the above"      
       },
@@ -111,8 +111,8 @@
 	{
       question: "Select the correct tag for inserting a list having circle as a bullet.",
       answers: {
-        a: "‹ol›",
-        b: "‹ul›",
+        a: "ol",
+        b: "ul",
         c: "Both(a)&(b)",
         d: "None of the above"      
       },
@@ -122,8 +122,8 @@
 	{
       question: "How can you make a list that lists the items with numbers?",
       answers: {
-        a: "‹ol›",
-        b: "‹ul›",
+        a: "ol",
+        b: "ul",
         c: "Both(a)&(b)",
         d: "None of the above" 
       },
