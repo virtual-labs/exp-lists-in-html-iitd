@@ -82,9 +82,9 @@
     {
       question: "An ordered list in HTML document starts with a.",
       answers: {
-        a: "‹ul›",
-        b: "‹ol›",
-        c: "‹li›",
+        a: "â€¹ulâ€º",
+        b: "â€¹olâ€º",
+        c: "â€¹liâ€º",
         d: "None"
       },
       correctAnswer: "a"
@@ -93,9 +93,9 @@
     {
       question: "An unordered list in HTML document starts with a.",
       answers: {
-        a: "‹ul›",
-        b: "‹ol›",
-        c: "‹li›",
+        a: "ul",
+        b: "ol",
+        c: "li",
         d: "None"
       },
       correctAnswer: "a"
@@ -104,16 +104,16 @@
     {
       question: "Which tag is used for List items?",
       answers: {
-        a: "‹li›",
-        b: "‹ul›",
-        c: "‹ol›",
-        d: "‹dl›"
+        a: "li",
+        b: "ul",
+        c: "ol",
+        d: "dl"
       },
       correctAnswer: "a"
     },
 	
 	{
-      question: "Which attribute is only used with ‹ol›?",
+      question: "Which attribute is only used with â€¹olâ€º?",
       answers: {
         a: "value",
         b: "type",
@@ -126,10 +126,10 @@
 	{
       question: "Which element contains definition?",
       answers: {
-        a: "‹dl›",
-        b: "‹dt›",
-        c: "‹dd›",
-        d: "‹ul›"
+        a: "dl",
+        b: "dt",
+        c: "dd",
+        d: "ul"
       },
       correctAnswer: "a"
     },
