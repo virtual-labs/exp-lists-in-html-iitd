@@ -1,4 +1,4 @@
-###Theory<br>
+
 <b>1.1 Introduction</b>
 A list is a record of short pieces of information, such as people’s names, usually written or printed with a single thing on each line and ordered in a way that makes a particular thing easy to find.
 
