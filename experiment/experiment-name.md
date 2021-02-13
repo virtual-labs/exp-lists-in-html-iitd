@@ -1,1 +1,1 @@
-##Types of Lists in HTML 
+Types of Lists in HTML 
