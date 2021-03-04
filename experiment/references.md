@@ -1,5 +1,4 @@
 
-#### References
 1. Web Technologies Black Book: HTML, JavaScript, PHP, Java, JSP, XML and AJAX, Kogent Learning Solutions Inc.
 
 2. The Complete Refrence,fifth edithion By- Thomas A.Powell.
@@ -8,4 +7,3 @@
 
 4. Types of list in HTML [Types of list](https://www.youtube.com/watch?v=mUigPviYZac)
 
-5. Learn HTML Online  [https://www.learn-html.org/](https://www.learn-html.org/)

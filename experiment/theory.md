@@ -1,14 +1,15 @@
 
-<b>1.1 Introduction</b>
+### 1.1 Introduction
+
 A list is a record of short pieces of information, such as people’s names, usually written or printed with a single thing on each line and ordered in a way that makes a particular thing easy to find.
 
 The types of lists that can be used in HTML are :<br>
-  1. ul : An unordered list. This will list items using plain bullets.<br>
-  2. ol : An ordered list. This will use different schemes of numbers to list your items.<br>
-  3. dl : A definition list. This arranges your items in the same way as they are arranged in a dictionary.
+  - ul : An unordered list. This will list items using plain bullets.<br>
+  - ol : An ordered list. This will use different schemes of numbers to list your items.<br>
+  - dl : A definition list. This arranges your items in the same way as they are arranged in a dictionary.
 
 
-<b>1.2 Syntax</b>
+### 1.2 Syntax
 
 
 ‹ul attribute='value'›<br>

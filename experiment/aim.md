@@ -2,5 +2,5 @@
 
 The Learner will be able to:
 
-- demonstrate working of lists in HTML.
-- using list in HTML pages through proper syntax.
+- Demonstrate working of lists in HTML.
+- Using list in HTML pages through proper syntax.
