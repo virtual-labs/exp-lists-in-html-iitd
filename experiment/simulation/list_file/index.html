@@ -130,42 +130,75 @@ div.ex1 {
 <h3><b>Note: You can add N numbers of items in simulator section.</b></h3><br>
 
 <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+ <script>
+function fillcities()
+{ removeOptions(cty);
+  switch(st.selectedIndex)
+  { case 1:
+     var mpcity=['--Type--','disc','circle','square'];
+      addOptions(cty,mpcity);
+      break;
+    case 2:
+     var upcity=['--Type--','1','a','A','I','i'];
+      addOptions(cty,upcity);
+      break;  
+ 
+  }
+}
+
+function addOptions(dd,citylist)
+{ for(i=0;i<citylist.length;i++)
+  {opt=document.createElement('option');
+   opt.text=citylist[i];
+   dd.add(opt);
+  }
+ 
+}
+
+function removeOptions(dd)
+{ for(i=dd.options.length-1;i>=0;i--)
+  { 
+   dd.remove(i);
+  }
+ 
+}
+</script>
 <script>
 $(document).ready(function(){
     $("#abc").click(function(){ 
-var list = $('#st').val();
-var type = $("#cty").val();
-var item1 = $("#item1").val();
-var item2 = $("#item2").val();
-var item3 = $("#item3").val();
-var item4 = $("#item4").val();
+	var list = $('#st').val();
+	var type = $("#cty").val();
+	var item1 = $("#item1").val();
+	var item2 = $("#item2").val();
+	var item3 = $("#item3").val();
+	var item4 = $("#item4").val();
 
-// alert(list);
-// alert(type);
-// alert(item1);
-// alert(item2);
-// alert(item3);
-// alert(item4);
+	// alert(list);
+	// alert(type);
+	// alert(item1);
+	// alert(item2);
+	// alert(item3);
+	// alert(item4);
 
-            if( list == "ul" ){
-               document.getElementById('t').innerHTML='Unordered List';
-            }
-            
-            else{
-               document.getElementById('t').innerHTML = 'Ordered List';
-            }
-          document.getElementById('n').innerHTML = "<"+list+" type="+type+"><li>"+item1+"</li><li>"+item2+"</li><li>"+item3+"</li><li>"+item4+"</li></"+list+">";
+    if( list == "ul" )
+    {
+        document.getElementById('t').innerHTML='Unordered List';
+    }
+    else
+    {
+        document.getElementById('t').innerHTML = 'Ordered List';
+    }
+    
+    document.getElementById('n').innerHTML = "<"+list+" type="+type+"><li>"+item1+"</li><li>"+item2+"</li><li>"+item3+"</li><li>"+item4+"</li></"+list+">";
            
-           $('#st').val(" ");
-           $("#cty").val(" ");
-           $("#item1").val(" ");
-           $("#item2").val(" ");
-           $("#item3").val(" ");
-           $("#item4").val(" ");
-
-           $('#st').val("--List--");
-           $("#cty").val("--Type--");
-
+    $('#st').val(" ");
+    $("#cty").val(" ");
+    $("#item1").val(" ");
+    $("#item2").val(" ");
+    $("#item3").val(" ");
+    $("#item4").val(" ");
+    $('#st').val("--List--");
+    $("#cty").val("--Type--");
     });
 });
 </script>
@@ -302,7 +335,9 @@ Task 3) Design a web page containing an unordered list for showing name of parti
             </div>
 <script src="../htmleditor/editor.js" type="text/javascript" charset="utf-8"></script>
             <!-- /.content-wrapper -->
-
+<footer class="main-footer">
+	<h4 align="center">Lab contributed by IIT Delhi<!-- Institute Name --> </h4>
+</footer>
 <!-- /.control-sidebar -->       
 
 <!-- ./wrapper -->
