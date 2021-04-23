@@ -1,0 +1,46 @@
+[{
+	"question": "Q1. An ordered list in HTML document starts with a.",
+	"answers": {
+		"a": "‹ul›",
+		"b": "‹ol›",
+		"c": "‹li›",
+		"d": "None"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q2. An unordered list in HTML document starts with a.",
+	"answers": {
+		"a": "ul",
+		"b": "ol",
+		"c": "li",
+		"d": "None"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q3. Which tag is used for List items?",
+	"answers": {
+		"a": "li",
+		"b": "ul",
+		"c": "ol",
+		"d": "dl"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q4. Which attribute is only used with ‹ol›?",
+	"answers": {
+		"a": "value",
+		"b": "type",
+		"c": "compact",
+		"d": "start"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q5. Which element contains definition?",
+	"answers": {
+		"a": "dl",
+		"b": "dt",
+		"c": "dd",
+		"d": "ul"
+	},
+	"correctAnswer": "a"
+}]
