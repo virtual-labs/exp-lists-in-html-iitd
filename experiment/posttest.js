@@ -89,10 +89,12 @@
     },
 
     {
-      question: "Q2. ‹li› is an empty tag. State True Or False.",
+      question: "Q2. Which tag is used for define list items in HTML",
       answers: {
-        a: "True",
-        b: "False"
+        a: "<li> tag",
+        b: "<list> tag",
+	c: "<dl> tag",
+	d: "None of the above"
       },
       correctAnswer: "a"
     },
@@ -100,8 +102,8 @@
     {
       question: "Q3. Select the correct tag used for creating an ordered list with letters.",
       answers: {
-        a: "ol",
-        b: "ul",
+        a: "<ol type = 'A'></ol>",
+        b: "<ul type = 'A'></ul>",
         c: "Both(a)&(b)",
         d: "None of the above"      
       },
@@ -116,14 +118,14 @@
         c: "Both(a)&(b)",
         d: "None of the above"      
       },
-      correctAnswer: "d"
+      correctAnswer: "b"
     },
 	
 	{
       question: "Q5. How can you make a list that lists the items with numbers?",
       answers: {
-        a: "ol",
-        b: "ul",
+        a: "<ol type = '1'></ol>",
+        b: "<ol type = 'number'></ol>",
         c: "Both(a)&(b)",
         d: "None of the above" 
       },
