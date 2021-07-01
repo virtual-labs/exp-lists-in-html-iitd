@@ -36,12 +36,12 @@ The types of lists that can be used in HTML are :<br>
 ‹li›Silver‹/li›<br>
 ‹li›Bronze‹/li›<br>
 ‹/ol›<br><br>
-<dl>
-  <dt>Coffee</dt>
-  <dd>Black hot drink</dd>
-  <dt>Milk</dt>
-  <dd>White cold drink</dd>
-</dl>
+&lt;dl&gt;
+&lt;dt&gt;Coffee&lt;/dt&gt;
+&lt;dd&gt;Black hot drink&lt;/dd&gt;
+&lt;dt&gt;Milk&lt;/dt&gt;
+&lt;dd&gt;White cold drink&lt;/dd&gt;
+&lt;/dl&gt;
 
 
 
