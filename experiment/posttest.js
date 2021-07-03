@@ -102,8 +102,8 @@
     {
       question: "Q3. Select the correct tag used for creating an ordered list with letters.",
       answers: {
-        a: "<ol type = 'A'></ol>",
-        b: "<ul type = 'A'></ul>",
+        a: "&lt;ol type = 'A'&gt;&lt;/ol&gt;",
+        b: " &lt;ul type = 'A'&gt;&lt;/ul&gt;",
         c: "Both(a)&(b)",
         d: "None of the above"      
       },
@@ -113,8 +113,8 @@
 	{
       question: "Q4. Select the correct tag for inserting a list having circle as a bullet.",
       answers: {
-        a: "ol",
-        b: "ul",
+        a: "&lt;ol&gt;",
+        b: "&lt;ul&gt;",
         c: "Both(a)&(b)",
         d: "None of the above"      
       },
@@ -124,8 +124,8 @@
 	{
       question: "Q5. How can you make a list that lists the items with numbers?",
       answers: {
-        a: "<ol type = '1'></ol>",
-        b: "<ol type = 'number'></ol>",
+        a: "&lt;ol type = '1'&gt;&lt;/ol&gt;",
+        b: "&lt;ol type = 'number'&gt;&lt;/ol&gt;",
         c: "Both(a)&(b)",
         d: "None of the above" 
       },
