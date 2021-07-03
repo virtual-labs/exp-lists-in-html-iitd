@@ -1,6 +1,6 @@
 ## Post test
 <br>
-Q1.  &lt;li&gt; tag is used for inserting List item in both ordered and unordered list<br>
+Q1.  &lt;li&gt; tag is used for inserting List item in both ordered and unordered list.<br>
 <b>A  True<br></b>
 B   False<br>
 
