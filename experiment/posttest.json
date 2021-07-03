@@ -29,7 +29,7 @@
 		"c": "Both(a)&(b)",
 		"d": "None of the above"
 	},
-	"correctAnswer": "d"
+	"correctAnswer": "b"
 }, {
 	"question": "Q5. How can you make a list that lists the items with numbers?",
 	"answers": {
