@@ -22,7 +22,7 @@ D  None of the above<br>
 Q4. What is the default item marker in unordered lists of HTML?<br>
 A  Circle<br>
 B  Marker<br>
-<b>C  disc</b><br>
+<b>C  Disc</b><br>
 D  None of the above<br>
 
 Q5.HTML &lt;dl&gt; tag defines the _____.<br>
