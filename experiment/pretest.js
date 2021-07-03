@@ -93,9 +93,9 @@
     {
       question: "Q2. An unordered list in HTML document starts with a.",
       answers: {
-        a: "ul",
-        b: "ol",
-        c: "li",
+        a: "&lt;ul&gt;",
+        b: "&lt;ol&gt;",
+        c: "&lt;li&gt;",
         d: "None"
       },
       correctAnswer: "a"
@@ -117,7 +117,7 @@
       answers: {
         a: "Circle",
         b: "Marker",
-        c: "disc",
+        c: "Disc",
         d: "None of the above"
       },
       correctAnswer: "c"
