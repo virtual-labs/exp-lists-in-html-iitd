@@ -2,7 +2,7 @@
 #### Please attempt the following questions
 
 Q1. Which one of the following is a type of lists that HTML supports?<br>
-A  Ordered lists›<br>
+A  Ordered lists<br>
 B  Unordered lists<br>
 C Discription lists<br>
 <b>D  All of the above</b><br>
