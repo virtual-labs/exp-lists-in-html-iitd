@@ -24,7 +24,7 @@ C  Both(a)&(b)<br>
 D  None of the above<br>
 
 Q5.  How can you make a list that lists the items with numbers?<br>
-A  &lt;ol type = '1'&gt;&lt;/ol&gt;<br>
+<b>A  &lt;ol type = '1'&gt;&lt;/ol&gt;</b><br>
 B  &lt;ol type = 'number'&gt;&lt;/ol&gt;<br>
 C  Both(a)&(b)<br>
-<b>D  None of the above<br></b>
+D  None of the above<br>
