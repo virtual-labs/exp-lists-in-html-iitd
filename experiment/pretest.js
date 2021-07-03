@@ -106,7 +106,7 @@
       answers: {
         a: "1",
         b: "i",
-        c: "l",
+        c: "L",
         d: "None of the above"
       },
       correctAnswer: "a"
@@ -124,7 +124,7 @@
     },
 	
 	{
-      question: "Q5.HTML &lt;dl&gt; tag defines the",
+      question: "Q5.HTML &lt;dl&gt; tag defines the _____.,
       answers: {
         a: "Ordered list",
         b: "Unordered list",
