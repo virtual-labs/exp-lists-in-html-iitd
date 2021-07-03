@@ -7,7 +7,7 @@ B  Unordered lists<br>
 C Discription lists<br>
 <b>D  All of the above</b><br>
 
-Q2. An unordered list in HTML document starts with a.<br>
+Q2. An unordered list in HTML document starts with a _____.<br>
 <b>A  &lt;ul&gt;</b><br>
 B  &lt;ol&gt;<br>
 C &lt;li&gt;<br>
