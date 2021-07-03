@@ -1,12 +1,12 @@
 [{
-	"question": "Q1. An ordered list in HTML document starts with a.",
+	"question": "Q1. Which one of the following is a type of lists that HTML supports?",
 	"answers": {
-		"a": "‹ul›",
-		"b": "‹ol›",
-		"c": "‹li›",
-		"d": "None"
+		"a": "Ordered lists",
+		"b": "Unordered lists",
+		"c": "Discription lists",
+		"d": "All of the above"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "d"
 }, {
 	"question": "Q2. An unordered list in HTML document starts with a.",
 	"answers": {
@@ -17,30 +17,30 @@
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "Q3. Which tag is used for List items?",
+	"question": "Q3.  What is the default start of item marker in ordered list?",
 	"answers": {
-		"a": "li",
-		"b": "ul",
-		"c": "ol",
-		"d": "dl"
+		"a": "1",
+		"b": "i",
+		"c": "L",
+		"d": "None of the above"
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "Q4. Which attribute is only used with ‹ol›?",
+	"question": "Q4. What is the default item marker in unordered lists of HTML?",
 	"answers": {
-		"a": "value",
-		"b": "type",
-		"c": "compact",
-		"d": "start"
+		"a": "Circle",
+		"b": "Marker",
+		"c": "disc",
+		"d": "None of the above"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "c"
 }, {
-	"question": "Q5. Which element contains definition?",
+	"question": "Q5. HTML &lt;dl&gt; tag defines the _____.",
 	"answers": {
-		"a": "dl",
-		"b": "dt",
-		"c": "dd",
-		"d": "ul"
+		"a": "Ordered lis",
+		"b": "Unordered list",
+		"c": "Descriptive list",
+		"d": "Description list"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "d"
 }]
