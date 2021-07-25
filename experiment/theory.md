@@ -6,11 +6,7 @@ A list is a record of short pieces of information, such as people’s names, usu
 The types of lists that can be used in HTML are :<br>
   - ul : An unordered list. This will list items using plain bullets.<br>
   - ol : An ordered list. This will use different schemes of numbers to list your items.<br>
-  - dl : A definition list. This arranges your items in the same way as they are arranged in a dictionary.
-  
-       1. &lt;dl&gt; tag defines the description list.
-       2. &lt;dt&gt; tag defines data term.
-       3. &lt;dd&gt; tag defines data definition (description).
+
 
 
 ### 1.2 Syntax
@@ -36,12 +32,7 @@ The types of lists that can be used in HTML are :<br>
 ‹li›Silver‹/li›<br>
 ‹li›Bronze‹/li›<br>
 ‹/ol›<br><br>
-&lt;dl&gt;<br>
-&lt;dt&gt;Coffee&lt;/dt&gt;<br>
-&lt;dd&gt;Black hot drink&lt;/dd&gt;<br>
-&lt;dt&gt;Milk&lt;/dt&gt;<br>
-&lt;dd&gt;White cold drink&lt;/dd&gt;<br>
-&lt;/dl&gt;
+
 
 
 
