@@ -124,7 +124,7 @@
     },
 	
 	{
-      question: "Q5.HTML &lt;ol&gt; tag defines the _____.,
+      question: "Q5.HTML &lt;ol&gt; tag defines the _____.",
       answers: {
         a: "Ordered list",
         b: "Unordered list",
