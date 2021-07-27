@@ -84,10 +84,10 @@
       answers: {
         a: "Ordered lists",
         b: "Unordered lists",
-        c: "Discription lists",
-        d: "All of the above"
+        c: "Both",
+        d: "None"
       },
-      correctAnswer: "d"
+      correctAnswer: "c"
     },
 
     {
@@ -124,14 +124,14 @@
     },
 	
 	{
-      question: "Q5.HTML &lt;dl&gt; tag defines the _____.,
+      question: "Q5.HTML &lt;ol&gt; tag defines the _____.",
       answers: {
         a: "Ordered list",
         b: "Unordered list",
         c: "Descriptive list",
         d: "Description list"
       },
-      correctAnswer: "d"
+      correctAnswer: "a"
     },
   ];
 

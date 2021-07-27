@@ -4,8 +4,8 @@
 Q1. Which one of the following is a type of lists that HTML supports?<br>
 A  Ordered lists<br>
 B  Unordered lists<br>
-C Discription lists<br>
-<b>D  All of the above</b><br>
+<b>C Both<br></b>
+D  None<br>
 
 Q2. An unordered list in HTML document starts with a _____.<br>
 <b>A  &lt;ul&gt;</b><br>
@@ -25,8 +25,8 @@ B  Marker<br>
 <b>C  Disc</b><br>
 D  None of the above<br>
 
-Q5.HTML &lt;dl&gt; tag defines the _____.<br>
-A  Ordered list<br>
+Q5.HTML &lt;ol&gt; tag defines the _____.<br>
+<b>A  Ordered list<br></b>
 B  Unordered list<br>
 C  Descriptive list<br>
-<b>D Description list</b><br>
+D Description list<br>
