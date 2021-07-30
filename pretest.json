@@ -1,0 +1,46 @@
+[{
+	"question": "Q1. Which one of the following is a type of lists that HTML supports?",
+	"answers": {
+		"a": "Ordered lists",
+		"b": "Unordered lists",
+		"c": "Both",
+		"d": "None"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Q2. An unordered list in HTML document starts with a.",
+	"answers": {
+		"a": "&lt;ul&gt;",
+		"b": "&lt;ol&gt;",
+		"c": "&lt;li&gt;",
+		"d": "None"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q3.  What is the default start of item marker in ordered list?",
+	"answers": {
+		"a": "1",
+		"b": "i",
+		"c": "L",
+		"d": "None of the above"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q4. What is the default item marker in unordered lists of HTML?",
+	"answers": {
+		"a": "Circle",
+		"b": "Marker",
+		"c": "Disc",
+		"d": "None of the above"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Q5. HTML &lt;ol&gt; tag defines the _____.",
+	"answers": {
+		"a": "Ordered list",
+		"b": "Unordered list",
+		"c": "Descriptive list",
+		"d": "Description list"
+	},
+	"correctAnswer": "a"
+}]
